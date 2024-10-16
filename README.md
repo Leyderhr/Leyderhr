@@ -4,7 +4,7 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&duration=2500&pause=1000&color=3AF76B&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+en+la+Cujae+%F0%9F%92%9A" alt="Typing SVG" /></a></div>
 
 ## 😉 Sobre Mí:
-- 👨🏻‍🏫 Soy un apasionado desarrollador de software en Segundo año de Ingeniería Informática en la Universidad Tecnológica de La Habana José Antonio Hecheverría (CUJAE)). 
+- 👨🏻‍🏫 Soy un apasionado desarrollador de software en Tercer año de Ingeniería Informática en la Universidad Tecnológica de La Habana José Antonio Hecheverría (CUJAE)). 
 
 - 👩🏻‍💻 Con 21 años y una sed insaciable por aprender, me encuentro inmerso en el mundo de la programación, buscando constantemente nuevos desafíos que me permitan ampliar mis conocimientos y habilidades.
 

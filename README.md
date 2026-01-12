@@ -61,10 +61,13 @@
 
 ## 📊 Github Stats:
 
-<p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Leyderhr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Leyderhr&theme=tokyonight&hide_border=false"/></p>
+<p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Leyderhr&theme=tokyonight&hide_border=false&commits_year=2026&include_all_commits=true&count_private=true&show_icons=true"/> </p>
+
 
 <p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leyderhr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Leyderhr&&style=flat-square" align="center" />
 </div> 
+
+

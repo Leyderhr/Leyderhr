@@ -10,7 +10,7 @@
 
 - 👨🏻‍🎓 My goal is to become a high‑caliber professional capable of contributing to the creation of innovative and efficient solutions. I am eager to learn new technologies and collaborate on challenging projects.
 
-* 🤝 **3 years of professional experience** as junior developer at:
+* 🤝 **3 years of professional experience** as software developer at:
 	* [Medialityc](https://github.com/Medialityc)
 	* [AlaSoluciones](https://www.linkedin.com/company/alasolcuiones-tech/)
 
